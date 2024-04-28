@@ -1,13 +1,4 @@
 /*
-Avery Fernandez
-12193941
-CS300
-3/20/2024
-Project 4
-*/
-
-/*
-File name: P4-AveryFernandez.c
 To Compile using makefile: make
 To Run: ./P4-AveryFernandez <number of students> <number of chairs> <left interval of random time to study> <right interval of random time to study>
 Example: ./P4-AveryFernandez 5 3 1 5
